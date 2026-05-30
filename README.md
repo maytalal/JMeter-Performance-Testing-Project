@@ -51,6 +51,7 @@ To eliminate the heavy graphical processing unit overhead of the JMeter GUI (whi
 
 Bash
 jmeter -n -t "Booking Website.jmx" -l results.csv -e -o Dashboard_Report
+
 Command Flags Architecture:
 -n : Enforces Non-GUI Mode operation.
 
