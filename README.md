@@ -61,7 +61,7 @@ Command Flags Architecture:
 
 -e -o : Initiates post-test compilation to automatically generate the visual HTML dashboard inside the specified output folder.
 
-🧠 Methodologies applied & Core Engineering Competencies
+## 🧠 Methodologies applied & Core Engineering Competencies
 By architecting and completing this performance verification cycle, I have practically validated and mastered the following Software Engineering & QA principles:
 
 Advanced Load Profiles Strategy: Configured deterministic Thread Groups utilizing proper Ramp-up and steady-state holding durations to safely establish system boundaries without provoking artificial system crashes.
